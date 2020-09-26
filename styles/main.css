@@ -1,0 +1,23 @@
+body{
+    background-color:bisque;
+}
+img {
+     border-radius: 15px 50px;
+    margin-left: 25%;
+    width: 700px;
+    height: 300px;
+}
+.container {
+    padding: 10px;
+     border-radius: 15px 15px;
+    background-color: white;
+    border-top: 2px;
+    border-color: green;
+    width: 700px;
+    margin-left: 25%;
+}
+
+.input-food {
+    padding: 22px;
+    display: inline-flex;
+}
